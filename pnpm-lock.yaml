@@ -1,0 +1,13 @@
+lockfileVersion: 5.4
+
+specifiers:
+  parse-multipart: ^1.0.4
+
+dependencies:
+  parse-multipart: 1.0.4
+
+packages:
+
+  /parse-multipart/1.0.4:
+    resolution: {integrity: sha512-BQBmA/1qJzNnrPnRUzJhqGwbybsXa6Ot8vII5w+JT8gp2p7h9oWHwgAc29ohp669ZPzIy9izLi8ali9ngGmuAQ==}
+    dev: false

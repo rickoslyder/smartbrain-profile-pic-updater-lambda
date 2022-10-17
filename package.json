@@ -1,0 +1,16 @@
+{
+  "name": "profile-pic-upload",
+  "version": "1.0.0",
+  "description": "Lambda function for uploading profile pictures to S3",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lambda-multipart-parser": "^1.0.1",
+    "mime-types": "^2.1.35",
+    "parse-multipart": "^1.0.4"
+  }
+}
